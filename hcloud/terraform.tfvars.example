@@ -7,7 +7,7 @@ prefix = "myname"
 # rancher/rancher image tag to use
 rancher_version = "latest"
 # Region where resources should be created
-region = "helsinki"
+region = "hel1"
 # Count of agent nodes with role all
 count_agent_all_nodes = "1"
 # Count of agent nodes with role etcd
